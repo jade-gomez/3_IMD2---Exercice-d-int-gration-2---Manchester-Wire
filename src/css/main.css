@@ -15,8 +15,33 @@ video {
 
 body {
   font-family: "Figtree";
+  max-width: 360px;
 }
 
 header {
+  color: white;
   background-color: #1d1d67;
+  padding-bottom: 12px;
+}
+h1 {
+  font-size: 23px;
+  font-weight: 700;
+}
+.haut {
+  display: flex;
+  padding: 10px 20px;
+  justify-content: space-between;
+}
+
+.icons {
+  display: flex;
+  column-gap: 15px;
+  align-items: center;
+}
+.icons img {
+  max-width: 28px;
+}
+
+.wave img {
+  text-align: center;
 }
