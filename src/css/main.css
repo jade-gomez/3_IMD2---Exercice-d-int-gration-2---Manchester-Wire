@@ -45,3 +45,39 @@ h1 {
 .wave img {
   text-align: center;
 }
+
+.partie-1{
+  padding: 20px;
+}
+.art-1 {
+  background-color: #82ff8b;
+  margin-bottom: 20px;
+}
+.texte-1 {
+  padding: 11px 10px;
+  height: 400px
+  color: #1d1d67;
+}
+p {
+  font-family: "Cherry Swash";
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 700;
+}
+.texte-1 h2 {
+ 
+}
+
+.art-2 {
+  background-color: #07ccff;
+}
+
+
+.partie-2{
+  background-color:#1D1D67 ;
+  padding: 20px;
+}
